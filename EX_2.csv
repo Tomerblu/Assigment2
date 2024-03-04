@@ -1,0 +1,2 @@
+test set accuracy,train set accuracy,Number of trainable parameters,Number of layers,Regularization methods,Number of epochs,Choice of optimizer,Embedding dimension
+0.8171967267990112,0.7821,722677,6,dropout,5,Adam,50
